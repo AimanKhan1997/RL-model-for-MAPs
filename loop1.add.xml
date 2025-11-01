@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-16 18:31:46 by Eclipse SUMO netedit Version 1.18.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <chargingStation id="cs_0" lane="E1_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_1" lane="E0_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_2" lane="E2_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_3" lane="E3_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+	<chargingStation id="cs_4" lane="E5_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_5" lane="E6_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_6" lane="E7_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_7" lane="E8_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+	<chargingStation id="cs_8" lane="E9_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_9" lane="E10_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_10" lane="E11_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_11" lane="E12_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <parkingArea id="pa_0" lane="E0_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+    <parkingArea id="pa_1" lane="E1_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+    <parkingArea id="pa_2" lane="E2_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+    <parkingArea id="pa_3" lane="E3_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+	<parkingArea id="pa_4" lane="E5_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+    <parkingArea id="pa_5" lane="E6_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+    <parkingArea id="pa_6" lane="E7_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+    <parkingArea id="pa_7" lane="E8_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+	<parkingArea id="pa_8" lane="E9_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+    <parkingArea id="pa_9" lane="E10_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+    <parkingArea id="pa_10" lane="E11_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+    <parkingArea id="pa_11" lane="E12_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12" onRoad="false"/>
+	<edgeData id="example_only_EV" file="data_only_EV.xml" period="300" begin="4000" vTypes="ElectricVehicle"/>
+	<edgeData id="full" file="data_full.xml" period="300" begin="4000" />
+</additional>
